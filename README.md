@@ -1,5 +1,5 @@
 # PythonDesignProject
 
-<hl>fish<hl>
+<hl>Python<h/l>
  
-<imgsrc."url">
+<img src="https://github.com/Rionya/PythonDesignProject/blob/master/Project%20Pic.PNG">
